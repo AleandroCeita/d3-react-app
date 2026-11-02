@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Aleandro está no Curso da Flag DEV !!</h1>
+          <h2>Alteração da branch stp</h2>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
